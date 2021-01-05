@@ -34,10 +34,9 @@ Scenario: Valid call to the endpoint should return a list of url in <head> about
     When Make a call to the /categories/online-marketing/content-marketing?source=side-menu end point
     Then Verify the <head> for the list of url about online marketing.
 
-Scenario: Valif call to the end point should return an xml format body
+Scenario: Valif call to the end point should return a list of link categories in the footer section
     Given (Endpoint: https://www.fiverr.com/categories/online-marketing/content-marketing?source=side-menu)
     And Request Type: GET
     And Query Params: KEY=source Value=side-menu 
-    And Query Params: KEY=mode Value=xml
     When Make a call to the /categories/online-marketing/content-marketing?source=side-menu end point
-    Then Verify the 
+    Then Verify the foot section links for different categories.
