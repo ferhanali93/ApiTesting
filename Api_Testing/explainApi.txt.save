@@ -1,1 +1,11 @@
-After you utilize an application on your mobile phone, the application interfaces to the Web and sends information to a server. The server at that point recovers that information, translates it, performs the essential activities and sends it back to your phone. The application at that point deciphers that information and presents you with the data you wanted in a clear way. Typically what an API is - all of this happens by means of API. To clarify this superior, let us take a recognizable example. Imagine you’re sitting at a table in a eatery with a menu of choices to arrange from. The kitchen is the portion of the “system” that will get ready your arrange. What is lost is the basic interface to communicate your arrange to the kitchen and convey your food back to your table. That’s where the server or API comes within. The server is the delivery person – or API – that takes your ask or arrange and tells the kitchen – the framework – what to do. Then the waiter conveys the reaction back to you; in this case, it is the food. 
+WHat is an Api?
+Api is an application programming Interface.
+After you utilize an application on your mobile phone, the application interfaces to the Web and sends information to a server. 
+The server at that point recovers that information, translates it, performs the essential activities and sends it back to your phone.
+The application at that point deciphers that information and presents you with the data you wanted in a clear way. 
+Typically what an API is - all of this happens by means of API. To clarify this superior, let us take a recognizable example. 
+Imagine you’re sitting at a table in a eatery with a menu of choices to arrange from. 
+The kitchen is the portion of the “system” that will get ready your arrange. 
+What is lost is the basic interface to communicate your arrange to the kitchen and convey your food back to your table. 
+That’s where the server or API comes within. The server is the delivery person – or API – that takes your ask or arrange and tells the kitchen – the framework – what to do. 
+Then the waiter conveys the reaction back to you; in this case, it is the food. 
